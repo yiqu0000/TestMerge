@@ -1,18 +1,5 @@
-line 1 code 1 b1
-<<<<<<< HEAD
-line 2 code 2 b2
-<<<<<<< HEAD
-line 3 2
-=======
-line 2 code 2
-line 3 1
-line 3 b1
->>>>>>> origin/branch1
-=======
-line 3 b2
->>>>>>> parent of 06cc8fb... merge
-=======
-line 3 b2
->>>>>>> parent of f9d5122... b2con
+line 1
+line 2
+line 3
 this is branch 1
 this is branch 2
