@@ -4,7 +4,11 @@ line 2 code 2 b2
 line 3 2
 =======
 line 2 code 2
+<<<<<<< HEAD
 line 3 b1
 >>>>>>> origin/branch1
+=======
+line 3 b2
+>>>>>>> parent of 06cc8fb... merge
 this is branch 1
 this is branch 2
