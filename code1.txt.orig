@@ -1,11 +1,13 @@
-<<<<<<< HEAD
-line 1 branch1
-line 2 branch2
-line 3 111
-=======
 line 1 1111111
 line 2 branch2
-line 3 22222223232
->>>>>>> branch2
-this is branch 1
+<<<<<<< HEAD
+line 3 111
+this is branch 1 xxx
 this is branch 2
+xxxxxxxx
+=======
+line 3 22222223232
+this is branch 1
+this is branch 2 yyy
+yyyyyyyyyyyy
+>>>>>>> branch2
